@@ -25,14 +25,14 @@ bash
 python project.py
 
 
-**Requirements**
+## Requirements
 
 1.Python 3.x
 2.Tkinter (usually comes with Python)
 3.MySQL Server
 4.mysql-connector-python
 
-**Usage**
+## Usage
 
 1.Launch GameHub and log in using your credentials
 2.Click on any game icon to start playing.
